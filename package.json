@@ -1,0 +1,16 @@
+{
+  "name": "expressnode",
+  "version": "1.0.0",
+  "main": "program.js",
+  "scripts": {
+    "start": "node program.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "expressnode": "file:"
+  }
+}
